@@ -298,16 +298,14 @@ function Homepage() {
             </Popup>
             <div className="header">
                 <div className="left">
-                    <h2 style={{color: (theme == "dark")?"white":"rgb(28, 39, 43)"}}>Hash/Hub</h2>
+                    <h2 style={{color: (theme == "dark")?"white":"rgb(28, 39, 43)"}}>Let's Generate Certs</h2>
                     <button id="toggler" onClick={()=>toggleTheme()}>{theme == 'light'?"Dark Theme":"Light Theme"}</button>
                 </div>
                 <div className="Middle">
                     <h1>Certificate Generator</h1>
                 </div>
                 <div className="right">
-                    <button className="info" onClick={() => setpop(true)}>i</button>
-                    <a href="https://github.com/vedant-jain03/certificate-generator">Contribute <ArrowUpwardIcon />  </a>
-                    <a href="https://github.com/vedant-jain03/certificate-generator">Give us <StarOutlineIcon /> </a>
+                   
                 </div>
             </div>
             <div className="maincontainer">

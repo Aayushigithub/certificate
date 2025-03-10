@@ -69,9 +69,7 @@ The **code** in this repository is licensed under the MIT license. Feel free to 
 
 # ✨ Contributors
 
-<a href="https://github.com/vedant-jain03/certificate-generator/graphs/contributors" >
-  <img src="https://contrib.rocks/image?repo=vedant-jain03/certificate-generator"/>
-</a>
+
 
 
 <div align="center">
